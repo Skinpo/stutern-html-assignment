@@ -1,0 +1,1 @@
+Week 2 assingment at Stutern for my Frontend Development Course
